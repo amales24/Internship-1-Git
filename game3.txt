@@ -3,4 +3,4 @@ Marta ima 0 pobjeda i 1 poraza!
 
 X . .
 X X .
-O O .
+O O O
